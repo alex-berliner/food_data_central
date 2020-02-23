@@ -1,0 +1,12 @@
+# whitelist file
+
+# ignore everything
+/*
+
+# unignore select files
+!.git
+!.gitignore
+!.gitmodules
+!README.md
+!mdb-export-all
+!sources.sh
