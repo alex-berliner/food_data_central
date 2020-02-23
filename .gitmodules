@@ -1,0 +1,3 @@
+[submodule "mdb-export-all"]
+	path = mdb-export-all
+	url = https://github.com/pavlov99/mdb-export-all
